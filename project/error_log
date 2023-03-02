@@ -1,0 +1,60 @@
+[15-Dec-2022 07:08:59 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[17-Dec-2022 06:05:18 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[17-Dec-2022 06:25:36 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[17-Dec-2022 06:25:38 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[17-Dec-2022 06:49:20 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[17-Dec-2022 06:49:22 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[17-Dec-2022 06:49:22 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[20-Dec-2022 04:51:52 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[20-Dec-2022 04:51:57 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
+[20-Dec-2022 04:51:57 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Illuminate\Container\Container::offsetGet() must be an instance of Illuminate\Container\mixed, instance of Illuminate\Events\Dispatcher returned in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php:1417
+Stack trace:
+#0 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(43): Illuminate\Container\Container->offsetGet('events')
+#1 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): Illuminate\Routing\RoutingServiceProvider->Illuminate\Routing\{closure}(Object(Illuminate\Foundation\Application), Array)
+#2 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build(Object(Closure))
+#3 /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(855): Illuminate\Container\Container->resolve('router', in /home/eglobalm/public_html/project/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 1417
